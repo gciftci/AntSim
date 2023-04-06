@@ -1,0 +1,9 @@
+__pycache__/
+Include/
+/Scripts/
+/venv/
+.sourcery.yaml
+main.py
+main2.py
+pyvenv.cfg
+Lib/
